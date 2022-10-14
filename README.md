@@ -1,2 +1,2 @@
 # StudentDetails
-std
+stdcode
